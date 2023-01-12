@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:ui_design_8/components/ratings.dart';
+import 'package:ui_design_8/home_components/ratings.dart';
 
 class ItemPageTitle extends StatelessWidget {
   final String title;
